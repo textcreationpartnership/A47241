@@ -1,0 +1,4871 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The clerk of the surveigh surveighed, and his rigging cast. Or, A brief view taken of the book intituled, The sizes and lengths of rigging for all the states ships and frigats, lately put forth by Mr Hayward clerk of the surveigh at Chatham; the irregularities whereof are here in part discovered. By George Kendall M.A. clerk of the surveigh at Debtford and Woolwich</title>
+            <author>Kendall, George, clerk of the survey at Deptford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47241</idno>
+            <idno type="STC">Wing K282</idno>
+            <idno type="STC">ESTC R216635</idno>
+            <idno type="EEBO-CITATION">99828360</idno>
+            <idno type="PROQUEST">99828360</idno>
+            <idno type="VID">32787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1951:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The clerk of the surveigh surveighed, and his rigging cast. Or, A brief view taken of the book intituled, The sizes and lengths of rigging for all the states ships and frigats, lately put forth by Mr Hayward clerk of the surveigh at Chatham; the irregularities whereof are here in part discovered. By George Kendall M.A. clerk of the surveigh at Debtford and Woolwich</title>
+                  <author>Kendall, George, clerk of the survey at Deptford.</author>
+                  <author>Arkenstall, Thomas.</author>
+               </titleStmt>
+               <extent>[6], 12 [i.e. 14], [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Page 14 is misnumbered 12.</note>
+                  <note>Postscript signed: Thomas Arkenstall.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hayward, Edward, 17th cent, --  Sizes and lengths of rigging for all the states ships and frigats --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32787:1" rendition="simple:additions"/>
+            <p>THE CLERK OF THE SURVEIGH Surveighed, AND His RIGGING Caſt. OR,
+A brief view taken of the Book intituled, The Sizes and Lengths of Rigging for
+all the States Ships and Frigats, lately put forth by M<hi rend="sup">r</hi> 
+               <hi>Hayward</hi>
+Clerk of the Surveigh at <hi>Chatham;</hi> the irregularities whereof are here
+in part diſcovered.</p>
+            <p>By <hi>George Kendall</hi> M.A. Clerk of the Surveigh at
+<hi>Debtford</hi> and <hi>Woolwich.</hi>
+            </p>
+            <p>Printed for the Author in the year 1656.</p>
+            <pb facs="tcp:32787:2"/>
+            <pb facs="tcp:32787:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_Lord_Protector">
+            <pb facs="tcp:32787:3"/>
+            <pb facs="tcp:32787:3"/>
+            <head>To his Highneſs OLIVER LORD PROTECTOR OF The Common-wealth of
+<hi>England, Scotland</hi> and <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>THe Survey buſineſs hath not without cauſe been ſtiled the
+myſtery of the Na<g ref="char:EOLhyphen"/>vy, there being no particular thing wher<g ref="char:EOLhyphen"/>in the State may
+more cloſely and ſubtilly be abu<g ref="char:EOLhyphen"/>ſed then in it; An evidence whereof, the
+enſuing Tract may be, which diſcovers in part the irre<g ref="char:EOLhyphen"/>gularity of that
+Book lately preſented to your Highneſs as yours <hi>de Jure,</hi>
+intituled, The Sizes and Lengths of rigging for all the States Ships and
+Frigats. I conceived it my duty to tender it to your Highneſs in regard God
+by his provi<g ref="char:EOLhyphen"/>dence hath placed you at the helm of Govern<g ref="char:EOLhyphen"/>ment, not for the
+patronizing but redreſsing the grievances of the Nation.</p>
+            <p>
+               <pb facs="tcp:32787:4"/>Vouchſafe, I beſeech you, to accept of this from
+one who as he hath formerly faithfully ſerved the Commonwealth under your
+Highneſſes command in another capacity, deſireth to do ſo alſo in
+this wherein he is now ſet, by diſcovering fraud and bringing forth truth
+to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, it being his chiefeſt
+aim that Righteouſneſs and Iuſtice (which is the ſureſt foundation of
+peace and tranquillity) may take place, and be eſtabliſhed amongſt us: I
+ſhall ſubmit to your Highneſſes pleaſure to determin, whether this
+work ſhal be admitted publick view, or be confined as that Rigging book was,
+or wholly ſuppreſſed, and ſhall remain,</p>
+            <closer>
+               <signed>Your Highneſſes moſt faithful Servant GEORGE
+KENDALL.</signed>
+            </closer>
+         </div>
+         <div type="to_the_Admiralty">
+            <pb facs="tcp:32787:4"/>
+            <head>To the Right Honorable THE COMMISSIONERS Of the Admiralty and
+Navy.</head>
+            <p>ALthough I have met with diſcouragements by falſe reports that
+have been made of me for my endeavours to do the State ſervice, yet I cannot
+ſee injury done to the Common-wealth, but I muſt make it known; I have
+therefore adventured to preſent to your Honors view ſome brief
+obſerva<g ref="char:EOLhyphen"/>tions that I have taken of that Book intituled; The Sizes and Lengths
+of Rigging for all the States Ships and Frigats.</p>
+            <p>It is reported that the Docking of one of the greater Ships hath
+been formerly fifty or ſixty pounds ad<g ref="char:EOLhyphen"/>vantage to the Carpenter of her: I may
+ſafely affirm that if the allowances in that book be made, the Rig<g ref="char:EOLhyphen"/>ging of
+one of them will be far greater gain to the Boatſwain, though he ſhould
+have ſharers with him in it. I leave all to your Honors conſideration, and
+remain</p>
+            <closer>
+               <signed>at your Honors command 
+George Kendall.</signed>
+            </closer>
+         </div>
+         <div type="to_the_Navy">
+            <pb facs="tcp:32787:5"/>
+            <head>To the Right Worſhipful THE COMMISSIONERS Of the Navy.</head>
+            <opener>
+               <salute>Right Worſhipful,</salute>
+            </opener>
+            <p>IT immediately belongs unto you to ſee abuſes of this nature
+(as this ſmall Tract preſents unto you) redreſſed: I have therefore
+rendred it unto you. That the State ſhould be wronged two or three hundred
+pound to the Rigging of a Ship, is a thing that re<g ref="char:EOLhyphen"/>quires to be taken
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of, eſpecially conſidering
+how many of the great Ships of late years have been, and now are ſet forth to
+ſea. Were onely ſome running r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pes <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng, it might be better excuſed
+and born with, but for the ſtanding Rigging there can be no pretence. I do
+ſuppoſe no Boatſwain would be ſo ſimple as to ſeaze up three or
+four fathoms of a Stay or a Shroud to make him ſelf ridiculous to every one:
+what becomes then of ſuch overlengths, I leave to conſi<g ref="char:EOLhyphen"/>deration. That the
+State might be righted, and every Ship may have her due allowance and no more,
+is the onely aim and deſire of him who is ſtill ready to be</p>
+            <closer>
+               <signed>at your Worſhips Command 
+GEORGE KENDALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32787:5"/>
+            <p>
+               <seg rend="decorInit">H</seg>Ee that would Rigge a SHIP or FRI<g ref="char:EOLhyphen"/>GOT compleatly, muſt know as
+the Length, Bredth, and Depth of the Ship, ſo the Dimenſions of each Maſt
+and Yard; for upon them doth the Rigging princi<g ref="char:EOLhyphen"/>pally depend, both for ſize
+and lengths: That the ſize of the Stay ſhould bee half the Diameter of the
+Maſt, and the Shrouds half the Stay, is a common rule; yet that is varied
+from by experienced Sea-men, as they finde their Ships more or leſſe
+labour-ſome in the Sea; but the length may bee found out exactly by the
+doctrine of Tri<g ref="char:EOLhyphen"/>angles, eſpecially of the ſtanding Rigging; for having two
+ſides, and the angle be<g ref="char:EOLhyphen"/>tween them, the third may be found out by an ordinary
+Artiſt. Having the length of the Maſt from the Croſſe-trees to the
+Partners for the Perpendicular, and half the bredth of the Ship for the Baſe,
+the Hypothenuſall, or Side ſub<g ref="char:EOLhyphen"/>tending, is the length of the Shroud. Again,
+having the ſame part of the Maſt, and half the length Keele, or the
+diſtance between the Main-maſt and Fore-maſt for the two ſides of the
+triangle, the third being found out will be the length of the Stay, making an
+allowance for the Coller at the head of the Maſt; but the Boat-ſwains have
+more familiar rules, which comes ſomthing near the the truth; <hi>viz.</hi>
+the length of the Keele is the length of the Stay in ſhort Ships, in greater
+the Stay may be ſhorter a fathome, or more. The <hi>Naesby</hi>'s Stay is
+near two fathoms ſhorter then the Keele, the Dunbarres above two fa<g ref="char:EOLhyphen"/>thoms
+ſhorter. The length of the Shrouds muſt be two thirds of the Maſt; the
+Top-maſt Shrouds the length of the Top-maſt, from the Croſſe-trees to
+the uppermoſt part of the Fid-hole; the Top-maſt Back-ſtaies the length
+from the Hounds to the Deck: but theſe rules and the reſt, are known to
+thoſe that are fit to take Charge of Ships, as Boat-ſwains, I ſhall
+therefore name no more.</p>
+            <p>If the Book intituled, <hi>The Sizes and Lengths of Rigging for
+all the States Ships or Frigots</hi> be examined by theſe or the like rules,
+it will be found very ex<g ref="char:EOLhyphen"/>orbitant in Length, and that much to the States
+prejudice. The <hi>Sovereign's</hi> Main-ſtay will be found four, if not five
+fathoms too long, and her Shrouds each pair near three fathoms, which will
+amount to fourten or fifteen pounds worth of Cordage, and the like exceſſe
+will be found in the reſt of the Rig<g ref="char:EOLhyphen"/>ging. But that the damage the State
+ſuffers by that Book may more plainly appear, I ſhall ſet down a parallel
+between that in the ſecond Columne of the Book, allotted by the Author for
+the <hi>Reſolution</hi> and <hi>Naesby,</hi> and what the <hi>Naesby</hi> was
+Rigged with at <hi>Woolwich</hi> at her firſt ſetting out; as alſo
+between that in the third Columne, which amongſt other Ships is appointed for
+the <hi>Swiftſure,</hi> and that with which the ſame Ship was Rigged with
+here at the ſet<g ref="char:EOLhyphen"/>ting forth in the year 1653, in the concluſion whereof you
+have the number of fathoms of each ſize reduced into weight by the Authors
+own rules, where <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e view you may
+ſee the difference between them.</p>
+            <p>
+               <pb n="2" facs="tcp:32787:6"/> 
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label" cols="2">
+                        <hi>Reſolution</hi> at Chattam.</cell>
+                     <cell role="label" cols="2">
+                        <hi>Naſeby</hi> at Woolwich</cell>
+                     <cell role="label" cols="2">
+                        <hi>Swiftſure</hi> at Chattam.</cell>
+                     <cell role="label" cols="2">
+                        <hi>Swiftſure</hi> at Woolwich.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathoms</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathoms</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathoms</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathoms</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="11">
+                        <hi>Bow-ſprit</hi>
+                     </cell>
+                     <cell>Pendants
+for
+Sheats</cell>
+                     <cell>6</cell>
+                     <cell>24</cell>
+                     <cell>5½</cell>
+                     <cell>8</cell>
+                     <cell>5½</cell>
+                     <cell>20</cell>
+                     <cell rows="2">3½</cell>
+                     <cell rows="2">60</cell>
+                  </row>
+                  <row>
+                     <cell>Falls for Sheats</cell>
+                     <cell>4½</cell>
+                     <cell>60</cell>
+                     <cell>4</cell>
+                     <cell>70</cell>
+                     <cell>4</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>3</cell>
+                     <cell>46</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>2½</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Garnets</cell>
+                     <cell>3</cell>
+                     <cell>52</cell>
+                     <cell>2½</cell>
+                     <cell>52</cell>
+                     <cell>3</cell>
+                     <cell>52</cell>
+                     <cell>2</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Lifts</cell>
+                     <cell>3</cell>
+                     <cell>60</cell>
+                     <cell>3½</cell>
+                     <cell>46</cell>
+                     <cell>3</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of Braces</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>3½</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of Braces </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>74</cell>
+                     <cell>2½</cell>
+                     <cell>56</cell>
+                     <cell>2</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>4</cell>
+                     <cell>36</cell>
+                     <cell>3½</cell>
+                     <cell>24</cell>
+                     <cell>3½</cell>
+                     <cell>34</cell>
+                     <cell>3½</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>6</cell>
+                     <cell>14
+ſlings</cell>
+                     <cell>6</cell>
+                     <cell>6 Tye</cell>
+                     <cell>6</cell>
+                     <cell>12
+ſlings</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>2½</cell>
+                     <cell>34</cell>
+                     <cell>2½</cell>
+                     <cell>36</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Horſe</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>5¼</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell rows="14">
+                        <hi>Sprit-top-maſt.</hi>
+                     </cell>
+                     <cell>Shrouds</cell>
+                     <cell>3</cell>
+                     <cell>28</cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell>2½</cell>
+                     <cell>24</cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>1¾</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>1¾</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Braces</cell>
+                     <cell>2½</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>1½</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>1½</cell>
+                     <cell>40</cell>
+                     <cell>1½</cell>
+                     <cell>42</cell>
+                     <cell>1½</cell>
+                     <cell>36</cell>
+                     <cell>1</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>2½</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>2½</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                     <cell>2</cell>
+                     <cell>40</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                     <cell>1½</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Back-ſtaies</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>2¼</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Back-ſtaies</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell>2½</cell>
+                     <cell>10</cell>
+                     <cell>1¾</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Lifts</cell>
+                     <cell>2</cell>
+                     <cell>28</cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell>1½</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Parrell
+ropes</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>2½</cell>
+                     <cell>4</cell>
+                     <cell>1¾</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Puttocks</cell>
+                     <cell>3</cell>
+                     <cell>12½</cell>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                     <cell>2½</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Tacles</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2½</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Tacles</cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1¾</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="26">
+                        <hi>Fore-maſt</hi>
+                     </cell>
+                     <cell>Pendants of
+Tacles</cell>
+                     <cell>7½</cell>
+                     <cell>24</cell>
+                     <cell>7</cell>
+                     <cell>18</cell>
+                     <cell>7</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Runners of Tacles</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">87</cell>
+                     <cell>5</cell>
+                     <cell>30</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">55</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Tacles</cell>
+                     <cell>3½</cell>
+                     <cell>182</cell>
+                     <cell>3½</cell>
+                     <cell>148</cell>
+                     <cell>3½</cell>
+                     <cell>115</cell>
+                     <cell>3½</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>7½</cell>
+                     <cell>208</cell>
+                     <cell>7</cell>
+                     <cell>176</cell>
+                     <cell>6½</cell>
+                     <cell>178</cell>
+                     <cell>6</cell>
+                     <cell>163</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>4</cell>
+                     <cell>80</cell>
+                     <cell>3½</cell>
+                     <cell>72</cell>
+                     <cell>4</cell>
+                     <cell>64</cell>
+                     <cell>3½</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>Standing back-ſtaies, <hi>alias</hi>
+ſhrouds</cell>
+                     <cell>7½</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>13</cell>
+                     <cell>16</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell>4½</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                     <cell>10½</cell>
+                     <cell>4½</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Tie</cell>
+                     <cell>7½</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>6</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>48</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Jeeres</cell>
+                     <cell>6</cell>
+                     <cell>90</cell>
+                     <cell>6</cell>
+                     <cell>100</cell>
+                     <cell>6</cell>
+                     <cell>48</cell>
+                     <cell>5½</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>3½</cell>
+                     <cell>80</cell>
+                     <cell>3½</cell>
+                     <cell>62</cell>
+                     <cell>3¼</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Parrell
+ropes</cell>
+                     <cell>5</cell>
+                     <cell>15</cell>
+                     <cell>4½</cell>
+                     <cell>18</cell>
+                     <cell>1½</cell>
+                     <cell>15</cell>
+                     <cell>4½</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="3" facs="tcp:32787:6"/>Breſt
+ropes</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6½</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sheats</cell>
+                     <cell>6</cell>
+                     <cell>90</cell>
+                     <cell>5</cell>
+                     <cell>74</cell>
+                     <cell>5</cell>
+                     <cell>83</cell>
+                     <cell>4½</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Jackes</cell>
+                     <cell>8</cell>
+                     <cell>56</cell>
+                     <cell>7</cell>
+                     <cell>48</cell>
+                     <cell>7</cell>
+                     <cell>40</cell>
+                     <cell>6</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>4½</cell>
+                     <cell>70</cell>
+                     <cell>4</cell>
+                     <cell>46</cell>
+                     <cell>4</cell>
+                     <cell>50</cell>
+                     <cell>3½</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>4</cell>
+                     <cell>14</cell>
+                     <cell>3½</cell>
+                     <cell>6</cell>
+                     <cell>3½</cell>
+                     <cell>12</cell>
+                     <cell>3½</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Braces</cell>
+                     <cell>3½</cell>
+                     <cell>8</cell>
+                     <cell>3¼</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>3</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>56</cell>
+                     <cell>2½</cell>
+                     <cell>50</cell>
+                     <cell>2½</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Clugarnets</cell>
+                     <cell>3</cell>
+                     <cell>80</cell>
+                     <cell>3½</cell>
+                     <cell>56</cell>
+                     <cell>3</cell>
+                     <cell>76</cell>
+                     <cell>3</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>3</cell>
+                     <cell>150</cell>
+                     <cell>2½</cell>
+                     <cell>114</cell>
+                     <cell>2½</cell>
+                     <cell>136</cell>
+                     <cell>2</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>Runners of martnets, or
+leech-lines</cell>
+                     <cell>2½</cell>
+                     <cell>48</cell>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>2½</cell>
+                     <cell>36</cell>
+                     <cell rows="2">2½</cell>
+                     <cell rows="2">42</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of martnets, or
+leech-lines</cell>
+                     <cell>2½</cell>
+                     <cell>95</cell>
+                     <cell>2½</cell>
+                     <cell>60</cell>
+                     <cell>2½</cell>
+                     <cell>88</cell>
+                  </row>
+                  <row>
+                     <cell rows="26">
+                        <hi>Fore-top-maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Tacles.</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>3½</cell>
+                     <cell>6</cell>
+                     <cell>3½</cell>
+                     <cell>4½</cell>
+                     <cell>3½</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Tacles.</cell>
+                     <cell>2</cell>
+                     <cell>28</cell>
+                     <cell>2</cell>
+                     <cell>34</cell>
+                     <cell>2</cell>
+                     <cell>28</cell>
+                     <cell>2</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>4</cell>
+                     <cell>70</cell>
+                     <cell>4</cell>
+                     <cell>66</cell>
+                     <cell>3¾</cell>
+                     <cell>67½</cell>
+                     <cell>4</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>2</cell>
+                     <cell>27</cell>
+                     <cell>2½</cell>
+                     <cell>24</cell>
+                     <cell>2</cell>
+                     <cell>27</cell>
+                     <cell>2</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Puttocks</cell>
+                     <cell>4½</cell>
+                     <cell>60</cell>
+                     <cell>3½</cell>
+                     <cell>66</cell>
+                     <cell>4½</cell>
+                     <cell>54</cell>
+                     <cell>4</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>5</cell>
+                     <cell>15</cell>
+                     <cell>4½</cell>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>15</cell>
+                     <cell>4½</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Pendant of the Lani<g ref="char:EOLhyphen"/>ard</cell>
+                     <cell rows="2">3½</cell>
+                     <cell rows="2">30</cell>
+                     <cell rows="2">3½</cell>
+                     <cell rows="2">12</cell>
+                     <cell>3½</cell>
+                     <cell>6</cell>
+                     <cell rows="2">3</cell>
+                     <cell rows="2">12</cell>
+                  </row>
+                  <row>
+                     <cell>Fall of the
+Lani<g ref="char:EOLhyphen"/>ard</cell>
+                     <cell>2½</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>5½</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>5½</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Runner</cell>
+                     <cell>5</cell>
+                     <cell>20</cell>
+                     <cell>4½</cell>
+                     <cell>21</cell>
+                     <cell>4½</cell>
+                     <cell>17</cell>
+                     <cell>4½</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>3½</cell>
+                     <cell>66</cell>
+                     <cell>3½</cell>
+                     <cell>47</cell>
+                     <cell>3</cell>
+                     <cell>52</cell>
+                     <cell>3</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell> Standing
+Back-ſtaies</cell>
+                     <cell>4½</cell>
+                     <cell>36</cell>
+                     <cell>4</cell>
+                     <cell>72</cell>
+                     <cell>3½</cell>
+                     <cell>33</cell>
+                     <cell>4½</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards to
+them</cell>
+                     <cell>2½</cell>
+                     <cell>12</cell>
+                     <cell>2½</cell>
+                     <cell>7</cell>
+                     <cell>2½</cell>
+                     <cell>10</cell>
+                     <cell>2½</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Running
+Back-ſtaies</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>3½</cell>
+                     <cell>18</cell>
+                     <cell>3½</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls to
+them</cell>
+                     <cell>3</cell>
+                     <cell>48</cell>
+                     <cell>2½</cell>
+                     <cell>24</cell>
+                     <cell>3</cell>
+                     <cell>44</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>2½</cell>
+                     <cell>46</cell>
+                     <cell>3</cell>
+                     <cell>64</cell>
+                     <cell>2½</cell>
+                     <cell>41</cell>
+                     <cell>2</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>2½</cell>
+                     <cell>84</cell>
+                     <cell>2½</cell>
+                     <cell>68</cell>
+                     <cell>2½</cell>
+                     <cell>75</cell>
+                     <cell>2</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                     <cell>2½</cell>
+                     <cell>10</cell>
+                     <cell>2½</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Braces</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>2½</cell>
+                     <cell>5</cell>
+                     <cell>2½</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>2</cell>
+                     <cell>75</cell>
+                     <cell>2½</cell>
+                     <cell>66</cell>
+                     <cell>2</cell>
+                     <cell>66</cell>
+                     <cell>2</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of the
+top-ropes</cell>
+                     <cell>7</cell>
+                     <cell>14½</cell>
+                     <cell>7</cell>
+                     <cell>15</cell>
+                     <cell>7</cell>
+                     <cell>14</cell>
+                     <cell>7</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of the
+top-ropes</cell>
+                     <cell>5</cell>
+                     <cell>44½</cell>
+                     <cell>4</cell>
+                     <cell>45</cell>
+                     <cell>5</cell>
+                     <cell>38</cell>
+                     <cell>4</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Sheats</cell>
+                     <cell>6</cell>
+                     <cell>64</cell>
+                     <cell>6½</cell>
+                     <cell>54</cell>
+                     <cell>6</cell>
+                     <cell>60</cell>
+                     <cell>5<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>3</cell>
+                     <cell>80</cell>
+                     <cell>3½</cell>
+                     <cell>80</cell>
+                     <cell>3</cell>
+                     <cell>72</cell>
+                     <cell>3</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Parrel
+ropes</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>3</cell>
+                     <cell>36</cell>
+                     <cell>2½</cell>
+                     <cell>40</cell>
+                     <cell>2½</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell rows="21">
+                        <pb n="4" facs="tcp:32787:7"/>
+                        <hi>Fore-top-Gallant-maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Ta<g ref="char:EOLhyphen"/>cles.</cell>
+                     <cell>2½</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Ta<g ref="char:EOLhyphen"/>cles.</cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1½</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell>2½</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>1½</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                     <cell>1½</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of Back-staies</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>7</cell>
+                     <cell>2½</cell>
+                     <cell>48</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Back-staies</cell>
+                     <cell>1½</cell>
+                     <cell>70</cell>
+                     <cell>1½</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>68</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Puttocks</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Top-rope</cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>20</cell>
+                     <cell>2½</cell>
+                     <cell>27</cell>
+                     <cell>1½</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard of the
+Stay</cell>
+                     <cell>1¼</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1¾</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>3½</cell>
+                     <cell>2¾</cell>
+                     <cell>5</cell>
+                     <cell>2½</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>1½</cell>
+                     <cell>38</cell>
+                     <cell>2</cell>
+                     <cell>35</cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell>1½</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>1½</cell>
+                     <cell>28</cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Braces</cell>
+                     <cell>1</cell>
+                     <cell>70</cell>
+                     <cell>1½</cell>
+                     <cell>68</cell>
+                     <cell>1</cell>
+                     <cell>64</cell>
+                     <cell rows="2">1</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>1½</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>1½</cell>
+                     <cell>65</cell>
+                     <cell>2</cell>
+                     <cell>70</cell>
+                     <cell>1½</cell>
+                     <cell>46</cell>
+                     <cell>1½</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell rows="2">1½</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>65</cell>
+                     <cell>1</cell>
+                     <cell>70</cell>
+                     <cell>1½</cell>
+                     <cell>60</cell>
+                     <cell>1½</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Crane-lines</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of Crane-lines</cell>
+                     <cell>2</cell>
+                     <cell>4<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Parrel
+ropes</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>1½</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell rows="29">
+                        <hi>Main-maſt.</hi>
+                     </cell>
+                     <cell>Pendants
+of
+Tacles</cell>
+                     <cell>8</cell>
+                     <cell>40</cell>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell>7</cell>
+                     <cell>18</cell>
+                     <cell>6½</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Runners of
+Tacles</cell>
+                     <cell>5½</cell>
+                     <cell>87</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell>5</cell>
+                     <cell>56</cell>
+                     <cell>5</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of Tacles</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>18<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>3½</cell>
+                     <cell>152</cell>
+                     <cell>3½</cell>
+                     <cell>115</cell>
+                     <cell>3½</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>8</cell>
+                     <cell>24<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>240</cell>
+                     <cell>7½</cell>
+                     <cell>216</cell>
+                     <cell>7</cell>
+                     <cell>168</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>4</cell>
+                     <cell>100</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>80</cell>
+                     <cell>4</cell>
+                     <cell>90</cell>
+                     <cell>3½</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Standing back-ſtaies, <hi>alias</hi>
+ſhrouds</cell>
+                     <cell>8</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>16</cell>
+                     <cell>23</cell>
+                     <cell>15</cell>
+                     <cell>20</cell>
+                     <cell>15</cell>
+                     <cell>20</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Coller of the
+Stay</cell>
+                     <cell>15</cell>
+                     <cell>11</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                     <cell>13</cell>
+                     <cell>9</cell>
+                     <cell>13</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard of the
+Stay</cell>
+                     <cell>5½</cell>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>5½</cell>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>4</cell>
+                     <cell>90</cell>
+                     <cell>3½</cell>
+                     <cell>72</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>80</cell>
+                     <cell>3</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Tackes</cell>
+                     <cell>9</cell>
+                     <cell>58</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>40</cell>
+                     <cell>8½</cell>
+                     <cell>46</cell>
+                     <cell>6½</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Sheats</cell>
+                     <cell>6½</cell>
+                     <cell>96</cell>
+                     <cell>5½</cell>
+                     <cell>78</cell>
+                     <cell>6</cell>
+                     <cell>90</cell>
+                     <cell>4½</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>5</cell>
+                     <cell>80</cell>
+                     <cell>4</cell>
+                     <cell>44</cell>
+                     <cell>4½</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell>3½</cell>
+                     <cell>14</cell>
+                     <cell>4</cell>
+                     <cell>18</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of Bra<g ref="char:EOLhyphen"/>ces</cell>
+                     <cell>4</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>8</cell>
+                     <cell>3¾</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Bra<g ref="char:EOLhyphen"/>ces</cell>
+                     <cell>3</cell>
+                     <cell>84</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>70</cell>
+                     <cell>3</cell>
+                     <cell>76</cell>
+                     <cell>2½</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Clugarnets</cell>
+                     <cell>3½</cell>
+                     <cell>90</cell>
+                     <cell>2½</cell>
+                     <cell>64</cell>
+                     <cell>3</cell>
+                     <cell>78</cell>
+                     <cell>3</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Tie</cell>
+                     <cell>8</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>6</cell>
+                     <cell>80</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>60</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="5" facs="tcp:32787:7"/>Jeeres</cell>
+                     <cell>8</cell>
+                     <cell>100</cell>
+                     <cell>6½</cell>
+                     <cell>123</cell>
+                     <cell>7</cell>
+                     <cell>92</cell>
+                     <cell>6</cell>
+                     <cell>96</cell>
+                  </row>
+                  <row>
+                     <cell>Parrel
+ropes</cell>
+                     <cell>6</cell>
+                     <cell>34</cell>
+                     <cell>5</cell>
+                     <cell>20</cell>
+                     <cell>5</cell>
+                     <cell>27</cell>
+                     <cell>4½</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Breſt
+ropes</cell>
+                     <cell>7</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Runners of martnets or leech
+lines</cell>
+                     <cell>2½</cell>
+                     <cell>60</cell>
+                     <cell>2½</cell>
+                     <cell>66</cell>
+                     <cell>2½</cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of martnets or leech lines</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>¾</cell>
+                     <cell>120</cell>
+                     <cell>3½</cell>
+                     <cell>14</cell>
+                     <cell>2¼</cell>
+                     <cell>80</cell>
+                     <cell>2½</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>3½</cell>
+                     <cell>204</cell>
+                     <cell>3½</cell>
+                     <cell>168</cell>
+                     <cell>3</cell>
+                     <cell>176</cell>
+                     <cell>2</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of the
+Garnet</cell>
+                     <cell>8</cell>
+                     <cell>14</cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                     <cell>7½</cell>
+                     <cell>9</cell>
+                     <cell>5½</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Guy of the
+Garnet</cell>
+                     <cell>5½</cell>
+                     <cell>18</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Fall of the
+Garnet</cell>
+                     <cell>4</cell>
+                     <cell>40</cell>
+                     <cell>3½</cell>
+                     <cell>45</cell>
+                     <cell>4</cell>
+                     <cell>38</cell>
+                     <cell>3½</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell rows="25">
+                        <hi>Main-top
+maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Ta<g ref="char:EOLhyphen"/>cles</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell>3½</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>6</cell>
+                     <cell>3½</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Ta<g ref="char:EOLhyphen"/>cles</cell>
+                     <cell>2½</cell>
+                     <cell>70</cell>
+                     <cell>2½</cell>
+                     <cell>38</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>42</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>5</cell>
+                     <cell>90</cell>
+                     <cell>4½</cell>
+                     <cell>100</cell>
+                     <cell>4¼</cell>
+                     <cell>92</cell>
+                     <cell>4</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>2½</cell>
+                     <cell>42</cell>
+                     <cell>2½</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>¼</cell>
+                     <cell>36</cell>
+                     <cell>2</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Standing
+Back-ſtaies</cell>
+                     <cell>5</cell>
+                     <cell>40</cell>
+                     <cell>4½</cell>
+                     <cell>136</cell>
+                     <cell>5</cell>
+                     <cell>40</cell>
+                     <cell>4</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard</cell>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>2½</cell>
+                     <cell>24</cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>2½</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Running
+Back-ſtaies</cell>
+                     <cell>5</cell>
+                     <cell>17</cell>
+                     <cell>3½</cell>
+                     <cell>18</cell>
+                     <cell>4½</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls to
+them</cell>
+                     <cell>3½</cell>
+                     <cell>60</cell>
+                     <cell>2½</cell>
+                     <cell>24</cell>
+                     <cell>3½</cell>
+                     <cell>48</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>7</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>24</cell>
+                     <cell>6</cell>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>3½</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Lifts</cell>
+                     <cell>3</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>58</cell>
+                     <cell>2½</cell>
+                     <cell>54</cell>
+                     <cell>2</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Braces</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>2½</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>2½</cell>
+                     <cell>80</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>68</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>76</cell>
+                     <cell>2</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>4</cell>
+                     <cell>80</cell>
+                     <cell>4</cell>
+                     <cell>68</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>¾</cell>
+                     <cell>66</cell>
+                     <cell>3½</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>3½</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>3½</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Pendant of the
+top-rope</cell>
+                     <cell>8½</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell>7</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Fall of the
+top-rope</cell>
+                     <cell>5½</cell>
+                     <cell>65</cell>
+                     <cell>5</cell>
+                     <cell>50</cell>
+                     <cell>5½</cell>
+                     <cell>44</cell>
+                     <cell>4</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>Sheats</cell>
+                     <cell>7½</cell>
+                     <cell>80</cell>
+                     <cell>7</cell>
+                     <cell>56</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>80</cell>
+                     <cell>6</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>4</cell>
+                     <cell>98</cell>
+                     <cell>3½</cell>
+                     <cell>92</cell>
+                     <cell>3¼</cell>
+                     <cell>84</cell>
+                     <cell>3½</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Runner</cell>
+                     <cell>5</cell>
+                     <cell>22</cell>
+                     <cell>5</cell>
+                     <cell>23</cell>
+                     <cell>5</cell>
+                     <cell>20</cell>
+                     <cell>4½</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>3½</cell>
+                     <cell>58</cell>
+                     <cell>3½</cell>
+                     <cell>60</cell>
+                     <cell>3½</cell>
+                     <cell>58</cell>
+                     <cell>3</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Parrell
+ropes</cell>
+                     <cell>3½</cell>
+                     <cell>12</cell>
+                     <cell>3½</cell>
+                     <cell>12</cell>
+                     <cell>3½</cell>
+                     <cell>10</cell>
+                     <cell>3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>4</cell>
+                     <cell>58</cell>
+                     <cell>2½</cell>
+                     <cell>84</cell>
+                     <cell>3</cell>
+                     <cell>54</cell>
+                     <cell>2</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Puttocks</cell>
+                     <cell>5</cell>
+                     <cell>80</cell>
+                     <cell>3½</cell>
+                     <cell>84</cell>
+                     <cell>4½</cell>
+                     <cell>63</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell rows="20">
+                        <hi>Main-top
+Gallant-maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Ta<g ref="char:EOLhyphen"/>cles</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2½</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Ta<g ref="char:EOLhyphen"/>cles</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1½</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>3</cell>
+                     <cell>36</cell>
+                     <cell>3</cell>
+                     <cell>21</cell>
+                     <cell>2½</cell>
+                     <cell>32</cell>
+                     <cell>2</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>1½</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>1½</cell>
+                     <cell>20</cell>
+                     <cell>1½</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="6" facs="tcp:32787:8"/>Pendants of
+Back-ſtaies</cell>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                     <cell>1½</cell>
+                     <cell>6</cell>
+                     <cell>2½</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Back-ſtaies</cell>
+                     <cell>2</cell>
+                     <cell>86</cell>
+                     <cell>2½</cell>
+                     <cell>52</cell>
+                     <cell>1¾</cell>
+                     <cell>85</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>2½</cell>
+                     <cell>24</cell>
+                     <cell>3</cell>
+                     <cell>27</cell>
+                     <cell>2</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard of the
+Stay</cell>
+                     <cell>2½</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2¼</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Braces</cell>
+                     <cell>2½</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell rows="2">1</cell>
+                     <cell rows="2">64</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>1½</cell>
+                     <cell>80</cell>
+                     <cell>1½</cell>
+                     <cell>72</cell>
+                     <cell>1¼</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>2</cell>
+                     <cell>76</cell>
+                     <cell>1½</cell>
+                     <cell>72</cell>
+                     <cell>1¾</cell>
+                     <cell>64</cell>
+                     <cell rows="2">1</cell>
+                     <cell rows="2">69</cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>1½</cell>
+                     <cell>8</cell>
+                     <cell>1¼</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Parrel
+ropes</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2¼</cell>
+                     <cell>6</cell>
+                     <cell>1½</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Top-rope</cell>
+                     <cell>4</cell>
+                     <cell>36</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3½</cell>
+                     <cell>34</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Flag ſtaffe
+ſtay</cell>
+                     <cell>2</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>20</cell>
+                     <cell>1½</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>2½</cell>
+                     <cell>60</cell>
+                     <cell>2</cell>
+                     <cell>42</cell>
+                     <cell>2</cell>
+                     <cell>60</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>2</cell>
+                     <cell>50</cell>
+                     <cell>2</cell>
+                     <cell>70</cell>
+                     <cell>1¾</cell>
+                     <cell>48</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell>1½</cell>
+                     <cell>35</cell>
+                     <cell>1½</cell>
+                     <cell>28</cell>
+                     <cell>1</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Puttocks</cell>
+                     <cell>3</cell>
+                     <cell>28</cell>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="16">
+                        <hi>Mizon-maſt.</hi>
+                     </cell>
+                     <cell>Pendants
+of
+Tacles</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell>3½</cell>
+                     <cell>7</cell>
+                     <cell>4½</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Runners of
+Tacles</cell>
+                     <cell>3½</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Tacles</cell>
+                     <cell>3</cell>
+                     <cell>80</cell>
+                     <cell>2½</cell>
+                     <cell>36</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>46</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>5</cell>
+                     <cell>132</cell>
+                     <cell>4½</cell>
+                     <cell>114</cell>
+                     <cell>4¾</cell>
+                     <cell>95</cell>
+                     <cell>4</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>2½</cell>
+                     <cell>48</cell>
+                     <cell>2½</cell>
+                     <cell>35</cell>
+                     <cell>2½</cell>
+                     <cell>40</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>6½</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>8½</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>50</cell>
+                     <cell>4</cell>
+                     <cell>45</cell>
+                     <cell>3½</cell>
+                     <cell>29</cell>
+                     <cell>3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>5½</cell>
+                     <cell>14½</cell>
+                     <cell>5</cell>
+                     <cell>14</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>4<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Laniard</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>2½</cell>
+                     <cell>5</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Sheat</cell>
+                     <cell>3½</cell>
+                     <cell>22</cell>
+                     <cell>4</cell>
+                     <cell>22</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Jeere</cell>
+                     <cell>5</cell>
+                     <cell>40</cell>
+                     <cell>5</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                     <cell>27</cell>
+                     <cell>4</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Truſſe</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>2½</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Brayls</cell>
+                     <cell rows="2">2½</cell>
+                     <cell rows="2">186</cell>
+                     <cell>2½</cell>
+                     <cell>98</cell>
+                     <cell rows="2">2</cell>
+                     <cell rows="2">129</cell>
+                     <cell rows="2">2</cell>
+                     <cell rows="2">140</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>Parrel
+ropes</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">
+                        <hi>Croſſe-Jack-yard.</hi>
+                     </cell>
+                     <cell>Lifts</cell>
+                     <cell>3½</cell>
+                     <cell>60</cell>
+                     <cell>3</cell>
+                     <cell>38</cell>
+                     <cell>2½</cell>
+                     <cell>58</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Braces</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>52</cell>
+                     <cell>2</cell>
+                     <cell>48</cell>
+                     <cell>2</cell>
+                     <cell>48</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>2½</cell>
+                     <cell>4</cell>
+                     <cell>2½</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>32</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="20">
+                        <hi>Mizon-top
+maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Tacles</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2½</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Tacles</cell>
+                     <cell>2¼</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2¼</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds</cell>
+                     <cell>3</cell>
+                     <cell>46</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>2½</cell>
+                     <cell>42</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="7" facs="tcp:32787:8"/>Laniards</cell>
+                     <cell>1½</cell>
+                     <cell>20</cell>
+                     <cell>1½</cell>
+                     <cell>16</cell>
+                     <cell>1½</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Puttocks</cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                     <cell>2½</cell>
+                     <cell>16</cell>
+                     <cell>2½</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Braces</cell>
+                     <cell>2½</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>2</cell>
+                     <cell>40</cell>
+                     <cell>1½</cell>
+                     <cell>38</cell>
+                     <cell>1¾</cell>
+                     <cell>40</cell>
+                     <cell>1½</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>2</cell>
+                     <cell>46</cell>
+                     <cell>2</cell>
+                     <cell>40</cell>
+                     <cell>1¾</cell>
+                     <cell>42</cell>
+                     <cell rows="2">1½</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bridles</cell>
+                     <cell>1½</cell>
+                     <cell>10</cell>
+                     <cell>1½</cell>
+                     <cell>6</cell>
+                     <cell>1¾</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>2</cell>
+                     <cell>66</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                     <cell>1¾</cell>
+                     <cell>56</cell>
+                     <cell>2</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Tye</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>2½</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Halliards</cell>
+                     <cell>2½</cell>
+                     <cell>34</cell>
+                     <cell>2</cell>
+                     <cell>28</cell>
+                     <cell>2</cell>
+                     <cell>34</cell>
+                     <cell>2</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                     <cell>1½</cell>
+                     <cell>28</cell>
+                     <cell>1¾</cell>
+                     <cell>30</cell>
+                     <cell>1½</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Top-rope</cell>
+                     <cell>3½</cell>
+                     <cell>32</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3½</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Parrell
+ropes</cell>
+                     <cell>2½</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>1¾</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Pendant of the Stay</cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell rows="3">3</cell>
+                     <cell rows="3">9</cell>
+                     <cell>2¼</cell>
+                     <cell>18</cell>
+                     <cell rows="3">2½</cell>
+                     <cell rows="3">10</cell>
+                  </row>
+                  <row>
+                     <cell>Runners of the
+Stay</cell>
+                     <cell>2½</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Parts</cell>
+                     <cell>2</cell>
+                     <cell>60</cell>
+                     <cell>1½</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Pendants of
+Back-ſtaies</cell>
+                     <cell>2½</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                     <cell>2½</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Back-ſtaies</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                     <cell>1½</cell>
+                     <cell>6</cell>
+                     <cell>1¾</cell>
+                     <cell>34</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="28">
+                        <hi>Mizon-top-maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Ca<g ref="char:EOLhyphen"/>tropes</cell>
+                     <cell>7</cell>
+                     <cell>36</cell>
+                     <cell>6½</cell>
+                     <cell>32</cell>
+                     <cell rows="2">6</cell>
+                     <cell rows="2">70</cell>
+                     <cell rows="2">4</cell>
+                     <cell rows="2">50</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Ca<g ref="char:EOLhyphen"/>tropes</cell>
+                     <cell>5</cell>
+                     <cell>90</cell>
+                     <cell>3½</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Pendant of the
+Fiſh-tacle</cell>
+                     <cell>7</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Fall of the
+Fiſh-tacle</cell>
+                     <cell>4</cell>
+                     <cell>35</cell>
+                     <cell>3½</cell>
+                     <cell>44</cell>
+                     <cell>3½</cell>
+                     <cell>32</cell>
+                     <cell>3½</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Stoppers at
+Bow</cell>
+                     <cell>7</cell>
+                     <cell>52</cell>
+                     <cell>6½</cell>
+                     <cell>34</cell>
+                     <cell>6</cell>
+                     <cell>28</cell>
+                     <cell>6</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Shank-painters</cell>
+                     <cell>7</cell>
+                     <cell>40</cell>
+                     <cell>6½</cell>
+                     <cell>30</cell>
+                     <cell>6</cell>
+                     <cell>24</cell>
+                     <cell>6</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Stoppers for the Stream
+Anchor</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">16</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Shank-painter</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Four
+Boy-ropes</cell>
+                     <cell>8</cell>
+                     <cell>100</cell>
+                     <cell>8</cell>
+                     <cell>80</cell>
+                     <cell>7</cell>
+                     <cell>100</cell>
+                     <cell>6½</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>Stream-Anchor
+Boy-rope</cell>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>4</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Kedge Anchor
+Boy-rope</cell>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>4½</cell>
+                     <cell>20</cell>
+                     <cell>4½</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Slings for
+Ordinance</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Vial</cell>
+                     <cell>9</cell>
+                     <cell>36</cell>
+                     <cell>9</cell>
+                     <cell>36</cell>
+                     <cell>9</cell>
+                     <cell>30</cell>
+                     <cell>9</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Paſſing
+rope</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Boat-rope</cell>
+                     <cell>8½</cell>
+                     <cell>60</cell>
+                     <cell>8</cell>
+                     <cell>45</cell>
+                     <cell>7½</cell>
+                     <cell>60</cell>
+                     <cell>7</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Geuſt
+rope</cell>
+                     <cell>5</cell>
+                     <cell>50</cell>
+                     <cell>4</cell>
+                     <cell>40</cell>
+                     <cell>5</cell>
+                     <cell>50</cell>
+                     <cell>4</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Pinnace
+rope</cell>
+                     <cell>6</cell>
+                     <cell>50</cell>
+                     <cell>6</cell>
+                     <cell>40</cell>
+                     <cell>6</cell>
+                     <cell>50</cell>
+                     <cell>5½</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Geuſt
+rope</cell>
+                     <cell>4½</cell>
+                     <cell>40</cell>
+                     <cell>4</cell>
+                     <cell>40</cell>
+                     <cell>4</cell>
+                     <cell>40</cell>
+                     <cell>4</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Two pare of
+But-ſlings</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Hogſheads
+ſlings</cell>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                     <cell>3½</cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                     <cell>3½</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Woolding for the
+bow-ſprit</cell>
+                     <cell>7</cell>
+                     <cell>80</cell>
+                     <cell>6</cell>
+                     <cell>130</cell>
+                     <cell>6</cell>
+                     <cell>70</cell>
+                     <cell>6</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="8" facs="tcp:32787:9"/>Stopers at
+Bits</cell>
+                     <cell>9</cell>
+                     <cell>20</cell>
+                     <cell>8</cell>
+                     <cell>24</cell>
+                     <cell>9</cell>
+                     <cell>20</cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Laniards</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Pendant of the win<g ref="char:EOLhyphen"/>ding
+tacle</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>8</cell>
+                     <cell>20</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Robans for one complete ſails of
+ſails</cell>
+                     <cell rows="2">2½</cell>
+                     <cell rows="2">456</cell>
+                     <cell rows="2">2</cell>
+                     <cell>400</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>200</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>273</cell>
+                  </row>
+                  <row>
+                     <cell>Earings for one complete ſails of
+ſails</cell>
+                     <cell>2</cell>
+                     <cell>456</cell>
+                     <cell>1½</cell>
+                     <cell>300</cell>
+                     <cell>1½</cell>
+                     <cell>176</cell>
+                     <cell>1½</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>Clurſeaſings for one complete ſails of
+ſails</cell>
+                     <cell>1½</cell>
+                     <cell>334</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>300</cell>
+                     <cell>1</cell>
+                     <cell>108</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p> 
+               <table>
+                  <head>The totall Number of Fathoms of the ſeaverall Sizes Reduced
+into weight.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>ſize Inch</hi>
+                     </cell>
+                     <cell role="label" cols="4">Reſolution at Chattam</cell>
+                     <cell role="label" cols="4">Naſeby at
+Woolwich</cell>
+                     <cell role="label" cols="4">Swiftſure at Chattam</cell>
+                     <cell role="label" cols="4">Swiftſure at Woolw.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathom</hi>
+                     </cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q<hi rend="sup">r</hi>.</cell>
+                     <cell role="label">l</cell>
+                     <cell role="label">
+                        <hi>Fathom</hi>
+                     </cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q<hi rend="sup">r</hi>.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">
+                        <hi>Fathom</hi>
+                     </cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q<hi rend="sup">r</hi>.</cell>
+                     <cell role="label">
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathom</hi>
+                     </cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q<hi rend="sup">r</hi>.</cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>¾</cell>
+                     <cell>0000</cell>
+                     <cell>000</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>300</cell>
+                     <cell>0000.</cell>
+                     <cell>3.</cell>
+                     <cell>21</cell>
+                     <cell>0000</cell>
+                     <cell>0000.</cell>
+                     <cell>0.</cell>
+                     <cell>00</cell>
+                     <cell>0000</cell>
+                     <cell>0020.</cell>
+                     <cell>0.</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>0070</cell>
+                     <cell>000</cell>
+                     <cell>1</cell>
+                     <cell>06</cell>
+                     <cell>361</cell>
+                     <cell>001</cell>
+                     <cell>2</cell>
+                     <cell>09</cell>
+                     <cell>266</cell>
+                     <cell>001</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>0353</cell>
+                     <cell>001</cell>
+                     <cell>2</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>1½</cell>
+                     <cell>852</cell>
+                     <cell>005</cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>887</cell>
+                     <cell>006</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>1268</cell>
+                     <cell>008</cell>
+                     <cell>2</cell>
+                     <cell>24</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>005</cell>
+                     <cell>2</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>1418</cell>
+                     <cell>016</cell>
+                     <cell>3</cell>
+                     <cell>09</cell>
+                     <cell>1012</cell>
+                     <cell>01<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>889</cell>
+                     <cell>010</cell>
+                     <cell>2</cell>
+                     <cell>06</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>2½</cell>
+                     <cell>1570</cell>
+                     <cell>026</cell>
+                     <cell>2</cell>
+                     <cell>00</cell>
+                     <cell>14<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>158<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>22</cell>
+                     <cell>0631½</cell>
+                     <cell>015</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>1116</cell>
+                     <cell>020</cell>
+                     <cell>2</cell>
+                     <cell>00</cell>
+                     <cell>0638</cell>
+                     <cell>015</cell>
+                     <cell>0</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </cell>
+                     <cell>027</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>1513</cell>
+                     <cell>040</cell>
+                     <cell>2</cell>
+                     <cell>17</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>813</cell>
+                     <cell>021</cell>
+                     <cell>3</cell>
+                     <cell>11</cell>
+                     <cell>0682</cell>
+                     <cell>018</cell>
+                     <cell>1</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>812</cell>
+                     <cell>038</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>0588</cell>
+                     <cell>027</cell>
+                     <cell>2</cell>
+                     <cell>02</cell>
+                     <cell>0535</cell>
+                     <cell>025</cell>
+                     <cell>0</cell>
+                     <cell>08</cell>
+                     <cell>0665</cell>
+                     <cell>031</cell>
+                     <cell>0</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>0340</cell>
+                     <cell>017</cell>
+                     <cell>1</cell>
+                     <cell>25</cell>
+                     <cell>0435</cell>
+                     <cell>022</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>0381</cell>
+                     <cell>019</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>0228</cell>
+                     <cell>011</cell>
+                     <cell>2</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0974</cell>
+                     <cell>061</cell>
+                     <cell>1</cell>
+                     <cell>26</cell>
+                     <cell>0265</cell>
+                     <cell>016</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                     <cell>0453½</cell>
+                     <cell>028</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>0122</cell>
+                     <cell>007</cell>
+                     <cell>2</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>5<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0196</cell>
+                     <cell>014</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                     <cell>0086</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6</cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>0097</cell>
+                     <cell>007</cell>
+                     <cell>0</cell>
+                     <cell>26</cell>
+                     <cell>0176</cell>
+                     <cell>013</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>0536</cell>
+                     <cell>048</cell>
+                     <cell>3</cell>
+                     <cell>16</cell>
+                     <cell>0415</cell>
+                     <cell>037</cell>
+                     <cell>3</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0631½</cell>
+                     <cell>057</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                     <cell>0418</cell>
+                     <cell>038</cell>
+                     <cell>0</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>6<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>06</cell>
+                     <cell>010</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>0273</cell>
+                     <cell>026</cell>
+                     <cell>3</cell>
+                     <cell>04</cell>
+                     <cell>0264</cell>
+                     <cell>025</cell>
+                     <cell>3</cell>
+                     <cell>17</cell>
+                     <cell>0114</cell>
+                     <cell>011</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0274½</cell>
+                     <cell>031</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                     <cell>0324</cell>
+                     <cell>037</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>0332</cell>
+                     <cell>037</cell>
+                     <cell>3</cell>
+                     <cell>25</cell>
+                     <cell>0243</cell>
+                     <cell>027</cell>
+                     <cell>3</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>7½</cell>
+                     <cell>0360</cell>
+                     <cell>04<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>0040</cell>
+                     <cell>005</cell>
+                     <cell>0</cell>
+                     <cell>25</cell>
+                     <cell>0332</cell>
+                     <cell>043</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>0000</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0623</cell>
+                     <cell>101</cell>
+                     <cell>2</cell>
+                     <cell>06</cell>
+                     <cell>0458</cell>
+                     <cell>074</cell>
+                     <cell>2</cell>
+                     <cell>17</cell>
+                     <cell>0025</cell>
+                     <cell>003</cell>
+                     <cell>1</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0010</cell>
+                     <cell>001</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>0080</cell>
+                     <cell>012</cell>
+                     <cell>2</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>046</cell>
+                     <cell>007</cell>
+                     <cell>0</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>0114</cell>
+                     <cell>020</cell>
+                     <cell>0</cell>
+                     <cell>26</cell>
+                     <cell>0036</cell>
+                     <cell>006</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>0050</cell>
+                     <cell>008</cell>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>0038</cell>
+                     <cell>006</cell>
+                     <cell>2</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>0011</cell>
+                     <cell>002</cell>
+                     <cell>3</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>0012</cell>
+                     <cell>003</cell>
+                     <cell>2</cell>
+                     <cell>05</cell>
+                     <cell>0013</cell>
+                     <cell>003</cell>
+                     <cell>3</cell>
+                     <cell>09</cell>
+                     <cell>0014</cell>
+                     <cell>004</cell>
+                     <cell>0</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0012</cell>
+                     <cell>003</cell>
+                     <cell>2</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>16</cell>
+                     <cell>005</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>9</cell>
+                     <cell>003</cell>
+                     <cell>0</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0008</cell>
+                     <cell>00<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>0010</cell>
+                     <cell>004</cell>
+                     <cell>0</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5</cell>
+                     <cell>0011</cell>
+                     <cell>005</cell>
+                     <cell>0</cell>
+                     <cell>07</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>20</cell>
+                     <cell>009</cell>
+                     <cell>0</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>020</cell>
+                     <cell>009</cell>
+                     <cell>0</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>00<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7</cell>
+                     <cell>007</cell>
+                     <cell>3</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6</cell>
+                     <cell>002</cell>
+                     <cell>012</cell>
+                     <cell>1</cell>
+                     <cell>07</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>10998</cell>
+                     <cell>544</cell>
+                     <cell>2</cell>
+                     <cell>17</cell>
+                     <cell>9101<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>378</cell>
+                     <cell>1</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>060</cell>
+                     <cell>377</cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                     <cell>6075½</cell>
+                     <cell>24</cell>
+                     <cell>2</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table> 
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="5">
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he totall of all Sizes</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Fathoms,</cell>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q<hi rend="sup">r</hi>.</cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the
+<hi>Reſolution.</hi>
+                     </cell>
+                     <cell>F.
+10998.</cell>
+                     <cell>or</cell>
+                     <cell>544.</cell>
+                     <cell>2.</cell>
+                     <cell>17.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd the
+<hi>Naſeby.</hi>
+                     </cell>
+                     <cell>F.
+9101½.</cell>
+                     <cell>or</cell>
+                     <cell>378.</cell>
+                     <cell>1.</cell>
+                     <cell>21.</cell>
+                  </row>
+                  <row>
+                     <cell>Differance,</cell>
+                     <cell>F.
+1896½</cell>
+                     <cell>or</cell>
+                     <cell>166</cell>
+                     <cell>0.</cell>
+                     <cell>24.</cell>
+                  </row>
+               </table> 
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="5">The total of all
+Sizes,</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Fathoms,</cell>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q<hi rend="sup">r</hi>
+                     </cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>the <hi>Swiftſure</hi> at
+<hi>Chattam.</hi>
+                     </cell>
+                     <cell>F 9060.</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>377.</cell>
+                     <cell>3.</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>the <hi>Sſiftſure</hi> at
+<hi>Woolwich</hi>
+                     </cell>
+                     <cell>F 6075½</cell>
+                     <cell>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>224.</cell>
+                     <cell>2.</cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>Differance.</cell>
+                     <cell>F. 298<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>½</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>153</cell>
+                     <cell>1.</cell>
+                     <cell>11.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:32787:9"/> 
+               <table>
+                  <row>
+                     <cell role="label">The weight of the over-plus of</cell>
+                     <cell role="label">C.</cell>
+                     <cell role="label">q.</cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>The
+<hi>Reſolution</hi>
+                     </cell>
+                     <cell>166.</cell>
+                     <cell>0.</cell>
+                     <cell>24.</cell>
+                  </row>
+                  <row>
+                     <cell>The
+<hi>Swiſtsure</hi>
+                     </cell>
+                     <cell>153.</cell>
+                     <cell>1.</cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>The Totall
+is</cell>
+                     <cell>319.</cell>
+                     <cell>2.</cell>
+                     <cell>6</cell>
+                  </row>
+               </table>This at 40 <hi>ſhil. a</hi> Hundred, comes to 639,l. 2,s.
+6,d. Is not not this a vaſt Summ for the <hi>State</hi> to loſe in Riging
+of two Ships.</p>
+            <p>I intended to have added a Paralell between the Providences
+Rigging in the ſixth columme, and what the ſame Ship was Rigged with at
+<hi>Deptford:</hi> but becauſe ſhe hath not been wholey
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Rigged here, ſince I came
+here into the Service I ſhall give you onely, a Paralell between a few
+particular Ropes ſup<g ref="char:EOLhyphen"/>plyed at <hi>Deptford,</hi> with the like in the Book,
+whereby you may have a view alſo of the Exorbitancis of allowances made to
+the leſſer Shipps, as well as to the greater.</p>
+            <p> 
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label" cols="2">ta
+Chattam</cell>
+                     <cell role="label" cols="2">at Deptford.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Fathoms</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Inch</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Fathoms</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="8">
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Tacles</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Runners of
+Tacles</cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds &amp;
+back-ſtaies</cell>
+                     <cell>5</cell>
+                     <cell>108</cell>
+                     <cell>5</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>2½</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Liftes</cell>
+                     <cell>2½</cell>
+                     <cell>56</cell>
+                     <cell>2½</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Sheats</cell>
+                     <cell>4</cell>
+                     <cell>52</cell>
+                     <cell>3½</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Jackes</cell>
+                     <cell>5</cell>
+                     <cell>34</cell>
+                     <cell>5</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>2</cell>
+                     <cell>72</cell>
+                     <cell>2</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Fore-top-maſt.</hi>
+                     </cell>
+                     <cell>Bow-lines</cell>
+                     <cell>1½</cell>
+                     <cell>60</cell>
+                     <cell>1½</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>2</cell>
+                     <cell>60</cell>
+                     <cell>2</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell rows="11">
+                        <hi>Main-maſt.</hi>
+                     </cell>
+                     <cell>Pendants of
+Ta<g ref="char:EOLhyphen"/>cles</cell>
+                     <cell>5½</cell>
+                     <cell>16</cell>
+                     <cell>5½</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Runners of
+Ta<g ref="char:EOLhyphen"/>cles</cell>
+                     <cell>4½</cell>
+                     <cell>20</cell>
+                     <cell>4½</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Shrouds &amp;
+Back-ſtaies</cell>
+                     <cell>5¼</cell>
+                     <cell>130</cell>
+                     <cell>5½</cell>
+                     <cell>114</cell>
+                  </row>
+                  <row>
+                     <cell>Stay</cell>
+                     <cell>10</cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Jackes</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell>5½</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Lifts</cell>
+                     <cell>3</cell>
+                     <cell>70</cell>
+                     <cell>2½</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>Clugarnets</cell>
+                     <cell>2½</cell>
+                     <cell>60</cell>
+                     <cell>2½</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Bow-lines</cell>
+                     <cell>4</cell>
+                     <cell>45</cell>
+                     <cell>2½</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Jeeres</cell>
+                     <cell>5</cell>
+                     <cell>30</cell>
+                     <cell>4</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Leech-line or
+martnets</cell>
+                     <cell>2</cell>
+                     <cell>80</cell>
+                     <cell>2</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Buntlines</cell>
+                     <cell>2</cell>
+                     <cell>95</cell>
+                     <cell>2</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell rows="11">
+                        <hi>Main-top
+maſt.</hi>
+                     </cell>
+                     <cell>Back-Stayes</cell>
+                     <cell>3</cell>
+                     <cell>32</cell>
+                     <cell>3½</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Falls of
+Braces</cell>
+                     <cell>2</cell>
+                     <cell>56</cell>
+                     <cell>2</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Bowlines</cell>
+                     <cell>3</cell>
+                     <cell>48</cell>
+                     <cell>2½</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Clulines</cell>
+                     <cell>2½</cell>
+                     <cell>64</cell>
+                     <cell>2½</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Runner</cell>
+                     <cell>3½</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="10" facs="tcp:32787:10"/>Catropes</cell>
+                     <cell>4</cell>
+                     <cell>30</cell>
+                     <cell>3½</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Stoppers at
+Bow</cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell>4</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Shank-painters</cell>
+                     <cell>4</cell>
+                     <cell>20</cell>
+                     <cell>4</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Four
+Boy-ropes</cell>
+                     <cell>5</cell>
+                     <cell>72</cell>
+                     <cell>5½</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>Boat-ropes</cell>
+                     <cell>6</cell>
+                     <cell>40</cell>
+                     <cell>5½</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>Genſt-ropes</cell>
+                     <cell>4</cell>
+                     <cell>35</cell>
+                     <cell>3½</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The total of all Sizes</cell>
+                     <cell cols="2">1526.</cell>
+                     <cell cols="2">1203.</cell>
+                  </row>
+               </table> 
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Fathoms.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>C.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q<hi rend="sup">r</hi>
+                        </hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell>1526.</cell>
+                     <cell>61.</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell>1203.</cell>
+                     <cell>46.</cell>
+                     <cell>1.</cell>
+                     <cell>03.</cell>
+                  </row>
+                  <row>
+                     <cell>The Difference
+is</cell>
+                     <cell>323</cell>
+                     <cell>14.</cell>
+                     <cell>3.</cell>
+                     <cell>25.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>When I firſt drew up the Paralell between the <hi>Naſeby</hi>
+and the <hi>Reſolution,</hi> I onely intended it for the View of thoſe
+concerned in the regulating of abu<g ref="char:EOLhyphen"/>ſes of that nature, and it had gone no
+further, but that I was told that the <hi>Reſolution</hi> was a bigger
+<hi>Shipp,</hi> and required more Rigging; broader I am in<g ref="char:EOLhyphen"/>formed it is by two
+Foot, but not ſo long by four Foot; Neither do I beleeve that her Maſts and
+Yards are ſo long and ſquare as the <hi>Naſeby's</hi> are, ſhe having
+three Hundred and Ten Yards of Canvas more in her two courſes, and one
+Hundred fifteen yards in her two top Sailes then the <hi>Reſolution</hi>
+hath. And as the Sailes ſo the Riggings muſt be proportionable to the
+Maſts and Yards. The <hi>Swiftſure</hi> is the ſame Ship for
+dimenſions, though new built, and her Maſts and Yards as taunt and ſquare
+as they were at the firſt. The <hi>Providence</hi> is not at all altered.</p>
+            <p>By theſe may be judged, what the reſt are, and I perſwade my
+ſelf, that he that ſhall undertake to Rigge the whole Eight Ships with the
+quantity al<g ref="char:EOLhyphen"/>lowed for the four firſt, may do it compleatly, and ſave as
+much Cordage as will be a good reward for his paines, and ſo the State will
+ſave, accord<g ref="char:EOLhyphen"/>ing to the allowance in the Book, twenty five tuns of cordage,
+which is worth at the loweſt price it can be bought now for, one Thouſand
+Pounds. A thing conſiderable.</p>
+            <p>After the Rigging of theſe Ships followeth the Maſts, where
+you have how many Hands the Maſt muſt be of, that will ſerve for thoſe
+Ships; this you may know, and know how many Inches are in a Hand, and yet be
+farre from knowing what lengths any of thoſe Maſts will prove, one of
+twenty one, or twenty two hands, making a Maſt of two or three Yards longer
+then another of the ſame number of hands, beſides the Maſt-maker muſt
+be adviſed with, to know what waſt in chips he will make of ſuch Maſts
+when he fits them for the Ships, and except the length of Maſt and yards be
+known, there can be no Rigging truely proportioned or cut out for the Ship.</p>
+            <p>In the 17. page, and ſo on to the 30<hi rend="sup">th</hi>, is ſet down Rigging
+for the Fri<g ref="char:EOLhyphen"/>gots, and there he hath ſome borrowed experience, but had he
+adviſed with <pb n="11" facs="tcp:32787:10"/>that <hi>Maſter</hi> of attendance that
+Rigged moſt of the Frigots he there men<g ref="char:EOLhyphen"/>tions, he would have told him that
+thoſe Rigging books had been very lame and imperfect, he would have informed
+him that there was a farre greater difference between the <hi>Ruby</hi> and the
+<hi>Aſſurance,</hi> for which he allow<g ref="char:EOLhyphen"/>es to both, the ſame Rigging, then
+there is betweene the <hi>Speaker,</hi> and the <hi>Ruby,</hi> or between the
+the <hi>Aſſurance</hi> and the <hi>Nightingale</hi> as may appear by their
+Maſts and quantity of Rigging they were fitted with.</p>
+            <p> 
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Speaker.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ruby.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Aſſurance.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Nightingale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Main Maſt</cell>
+                     <cell>30 yards</cell>
+                     <cell>28⅔
+yards</cell>
+                     <cell>25½ yards</cell>
+                     <cell>23½ yards.</cell>
+                  </row>
+                  <row>
+                     <cell>Weight of Rigging</cell>
+                     <cell>10 tun. 10
+C.</cell>
+                     <cell>8 tun. 10 C.</cell>
+                     <cell>6 tun. 3 C.</cell>
+                     <cell>4 tun. 13
+C.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>He would have told him that the Puttocks he hath inſerted in the
+Fore-top Maſt and Main top-maſt riggings, are altogether ſuperfluous, and
+not at all uſed;</p>
+            <p>
+               <hi>Viz.</hi> 
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="2">
+                        <hi>Inch
+Speaker.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Inch
+Briſtol.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Inch
+Nightingale.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Inch
+Martin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fore-top Maſt
+Puttocks</cell>
+                     <cell>2.</cell>
+                     <cell>24</cell>
+                     <cell>2.</cell>
+                     <cell>24</cell>
+                     <cell>2.</cell>
+                     <cell>24</cell>
+                     <cell>2.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>Main-top Maſt
+Puttocks</cell>
+                     <cell>2½</cell>
+                     <cell>34</cell>
+                     <cell>2½</cell>
+                     <cell>32</cell>
+                     <cell>2.</cell>
+                     <cell>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>The Puttocks in the lower Maſts being ſufficient.</p>
+            <p>He would not have allowed the <hi>Martin</hi> a longer
+Main-ſtay, or Main-top-maſt-ſtay then the <hi>Nightingale,</hi> nor a
+Coller for the Fore-ſtay to the <hi>Nightingal</hi> and <hi>Martin,</hi>
+above twice the lengths of either the <hi>Speaker</hi> or <hi>Bri<g ref="char:EOLhyphen"/>ſtol;</hi>
+he would have given Main-top-maſt ſhrouds to the <hi>Martin,</hi> as well
+as Fore-top-maſt Shrouds, and in divers other particulars, which will be too
+tedious to mention, he would have ſhewn him that he had been out of the
+way.</p>
+            <p>Next to the Rigging of the Frigots follows the Boatſwains, and
+Car<g ref="char:EOLhyphen"/>penters ſtores, with the Anchors and Ground-tacle for the ſeveral Ships
+and Frigots, wherein whether he hath truly Copied out the Boatſwains or
+Carpenters Indents, or no, I know not, in regard I have not had to do with the
+greater Ships: but in the Anchors and Cables for the Frigots he is as much
+beſides the truth, as he was in their Rigging: the <hi>Ruby</hi> and
+<hi>Dia<g ref="char:EOLhyphen"/>mond,</hi> with the reſt of the bigger fourth-rate Frigots, have
+Anchors of 21 and 22 C. weight, and Cables of 14½ Inches, and 15 Inches,
+whereas the <hi>Adventure</hi> and <hi>Aſſurance</hi> have their beſt
+Anchors but of 13 hundred weight, and their beſt Cables but of 12½
+Inches, and yet in the Book they are all allowed Anchors of the ſame weight,
+and Cables of the ſame ſizes.</p>
+            <p>There is one thing more in the Stores, which requires the wit not
+one<g ref="char:EOLhyphen"/>ly of an intelligent Clerk, but of an expert Sea-man alſo to make uſe
+of, and that is the two Top-gallent ſails, and the Sprit-ſail, and
+Mizon-top-ſails of the <hi>Nicodemus</hi> and <hi>Henrietta</hi> Pinnace,
+which are not onely num<g ref="char:EOLhyphen"/>bred amongſt the Stores, but afterward meaſured
+out, where the quan<g ref="char:EOLhyphen"/>titie of Canvas for each Ships ſails is ſet down, and
+yet neither Maſt nor Rigging allowed for them, and may wee not judge that
+this allowance was made hand over head.</p>
+            <p>
+               <pb n="13" facs="tcp:32787:11"/>From the Stores he comes to the weight of
+Cordage, and obſervations about Rope-makers. If I had an inſight into that
+Trade, I might diſcover much weakneſſe in that, ſomthing to me ſeems
+very irrational: to name but one particular in the weight: Can any one give a
+reaſon, why a Cablet of 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inches
+ſhould weigh 63 pounds heavier then a Hauſer of the ſame ſize and
+number of threds, and a Cablet of 4 Inch ſhould weigh ¾ of a hun<g ref="char:EOLhyphen"/>dred
+and twenty one l. leſſer then a Hauſer of the ſame ſize: But to wave
+his weights, Is there any proportion obſerved in the making of Cordage, where
+a hauſer of 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inch hath 12 threds
+more then one of inch, and one of 2 inch hath but 3 threds more then one of
+1½ inch and one of 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inch
+but 3 threds more, then one of 2 Inch; or that one hauſer of 5<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inch ſhould have but 12 threds more
+then one of 5 Inch, and one of 6 Inches have 54 threds more then one of
+5½ Inch, or that one of 8 Inch ſhould have but 24 threds more then one
+of 7½ and one of 8½ ſhould have 72 threds more then one of 8
+Inches; or is it poſſible that a Cable of 20 In<g ref="char:EOLhyphen"/>ches ſhoul contein as
+many threds as one of 19 Inches; and one of 13 Inches, if there be any
+certainty in a rule of proportion, that number of threds will make one of 23 or
+24 Inches; certainly that Rope-maker that gave him theſe obſervations,
+plaied the Wagg with him, to make him to be laughed at.</p>
+            <p>Whether the Boat-maker hath dealt faithfully with him in the
+dime<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons of the Ships, Boats, or
+no, I know not, but I am certain they bear not a like proportion one to the
+other, the Purveyor can beſt tell, (if he looks over the ſtores) whether
+they be duely prized.</p>
+            <p>As for the quantity of canvas in each Ships Sailes, except it be
+known what depth, and what number of cloaths be in every Sail: it cannot be
+diſ<g ref="char:EOLhyphen"/>covered whether the Sail maker hath put in all that cloth into them or
+no.</p>
+            <p>And as for his weight of each Ships rigging, and Ground-tackle, I
+may ſafely affirm, he hath not gone by the rule he himſelf lays down for
+the weight of Coardage, I ſhall inſtance onely in their Ground-tackle, and
+o<g ref="char:EOLhyphen"/>ther coardage, for ſtores.</p>
+            <p> 
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="4">The weight in the
+Booke.</cell>
+                     <cell role="label" cols="4">Caſt up by the weight in the
+Book.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Tunne</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>C.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q<hi rend="sup">r</hi>.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Tunne</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>C.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>q<hi rend="sup">r</hi>.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Soveraigne</hi>
+                     </cell>
+                     <cell>60.</cell>
+                     <cell>08.</cell>
+                     <cell>2.</cell>
+                     <cell>14</cell>
+                     <cell>53.</cell>
+                     <cell>17.</cell>
+                     <cell>1.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Reſolution</hi>
+                     </cell>
+                     <cell>50.</cell>
+                     <cell>12.</cell>
+                     <cell>2.</cell>
+                     <cell>00.</cell>
+                     <cell>47.</cell>
+                     <cell>19.</cell>
+                     <cell>1.</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Triumph</hi>
+                     </cell>
+                     <cell>36.</cell>
+                     <cell>13.</cell>
+                     <cell>2.</cell>
+                     <cell>21</cell>
+                     <cell>31.</cell>
+                     <cell>00</cell>
+                     <cell>3.</cell>
+                     <cell>15.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Victory</hi>
+                     </cell>
+                     <cell>28.</cell>
+                     <cell>04.</cell>
+                     <cell>3.</cell>
+                     <cell>14.</cell>
+                     <cell>26.</cell>
+                     <cell>16.</cell>
+                     <cell>0.</cell>
+                     <cell>14.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Entrance</hi>
+                     </cell>
+                     <cell>22.</cell>
+                     <cell>03.</cell>
+                     <cell>0</cell>
+                     <cell>00.</cell>
+                     <cell>20.</cell>
+                     <cell>09.</cell>
+                     <cell>3.</cell>
+                     <cell>26.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Providence</hi>
+                     </cell>
+                     <cell>16.</cell>
+                     <cell>05.</cell>
+                     <cell>3.</cell>
+                     <cell>21.</cell>
+                     <cell>14.</cell>
+                     <cell>05.</cell>
+                     <cell>2.</cell>
+                     <cell>22.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Whelpe</hi>
+                     </cell>
+                     <cell>8.</cell>
+                     <cell>07.</cell>
+                     <cell>2.</cell>
+                     <cell>07.</cell>
+                     <cell>07.</cell>
+                     <cell>01.</cell>
+                     <cell>2.</cell>
+                     <cell>09.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Smal-pinnace</hi>
+                     </cell>
+                     <cell>5.</cell>
+                     <cell>07.</cell>
+                     <cell>3.</cell>
+                     <cell>07.</cell>
+                     <cell>04.</cell>
+                     <cell>04.</cell>
+                     <cell>0.</cell>
+                     <cell>14.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:32787:11"/>To conclude, by all it doth appear, that
+whereas the author boaſts, that much of this book hath been his own paines,
+and part borrowed experi<g ref="char:EOLhyphen"/>ence, the whole is but a confuſed collection of
+things taken upon truſt from others without examination of the truth, or
+reaſon of them; there being little of either to be found, and whereas he
+affirmes, that one maine in<g ref="char:EOLhyphen"/>ducement in committing it to the preſſe, was to
+give the Right Honour<g ref="char:EOLhyphen"/>able, the Commiſſioners of the admiralty
+ſatisfaction, — That the Shippes are fitted regularly with riggings and
+ſtores, in re<g ref="char:EOLhyphen"/>ference to Boat-ſwaines, and Carpenters, and not hand over
+head, and with<g ref="char:EOLhyphen"/>out caution. It is evident, that if his rules be obſerved,
+there will appear very little, either regularity, or caution. And thus have you
+<hi>The intelligent Clerk Surveyed,</hi> and now what doth his work call for,
+but that Juſtice ſhould be done upon it, as is uſuall upon ſuch books,
+as are either ſcanda<g ref="char:EOLhyphen"/>lous to, or abuſive of the State, (a greater and more
+ſubtil fraud being rare to be found) and I doubt not but that they, who are
+intruſted in manage<g ref="char:EOLhyphen"/>ment of the affaires of the Navy, will ſo far take it
+into conſideration, as to do the Common Wealth right in the
+buſineſſe.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>To prevent a queſtion that may be made, <hi>viz.</hi> Whether
+the <hi>Naſeby Swiftſure</hi> and <hi>providence</hi> were ſufficiently
+rigged, take notice that the two laſt were rigged by Mr. <hi>Thomas Scot</hi>
+now <hi>Maſter</hi> of attendance at <hi>Deptford,</hi> a man of known
+intregrity, and ability for the performance of that work. The <hi>Naſeby</hi>
+was rigged at <hi>Woolwich,</hi> when there was no <hi>Maſter</hi> of
+atten<g ref="char:EOLhyphen"/>dance there, yet the teſtimony annexed was given of it by Mr.
+<hi>Arkenſtall,</hi> one of the <hi>Maſters</hi> of attendance at
+<hi>Chattem,</hi> when ſhe was rigged and rea<g ref="char:EOLhyphen"/>dy to ſet ſail from
+<hi>Woolwich.</hi>
+            </p>
+            <q> 
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certification">
+                        <p>Theſe are to certifie, that the <hi>Naſeby Frigot</hi>
+is ſufficiently rigged: and that the ſizes and lengths of each particular
+rope in ſight, is large enough for ſervice, as far as I am able to judge.
+Dated at <hi>Woolwich</hi> this 26<hi rend="sup">th</hi> day of <hi>Aprill,</hi> 1655.</p>
+                        <closer>
+                           <signed>Thomas Arkenſtall.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:32787:12"/>
+            <pb facs="tcp:32787:12"/>
+            <head>The Author to his Book.</head>
+            <l>FRowns, Scorns, Taunts, Threats, my Book thou muſt expect,</l>
+            <l>From them, whoſe falſhood thou doſt here detect.</l>
+            <l>All the ſworn brothers will at once conſpire</l>
+            <l>Gainſt thee and me, and thus will vent their ire,</l>
+            <l>What? ſhall a Clerk that's but of yeſterday,</l>
+            <l>That ſarcely knows the uſe of Shroud or Stay,</l>
+            <l>Queſtion the lengths of Ropes we give? ſhall we</l>
+            <l>That have been bred up in the Navy, be</l>
+            <l>Subject to give account for what we do,</l>
+            <l>Or what allowances we make? if ſo,</l>
+            <l>It will be ſad to us, we'l therefore ſee</l>
+            <l>What friends we have, and they engag'd ſhall be</l>
+            <l>To plead for us. Of them affirm one ſhall</l>
+            <l>That theſe are but meer niceties: if all</l>
+            <l>Other Ships rigging books were but perus'd,</l>
+            <l>It may be ſaid in them the State's abus'd:</l>
+            <l>Scarce two Ships rigging you'l find to agree,</l>
+            <l>Though of the ſame dimenſions they be.</l>
+            <l>If this prevail not, then another friend,</l>
+            <l>Shall plead it's not a ſeaſon to attend</l>
+            <l>The regulating this; things of more weight,</l>
+            <l>Require the preſent time: by this means ſtraight</l>
+            <l>It ſhall be laid by to another day,</l>
+            <l>Then we are ſafe, we ſhall have time to play</l>
+            <l>Our game the better: there's hopes we ſhall finde</l>
+            <l>Some way to put this thing quite out of minde.</l>
+            <l>We'l plead the Author is a buſie man,</l>
+            <l>To whom if ears be open, no end can</l>
+            <l>
+               <pb facs="tcp:32787:13"/>Be made of quarrels: he will yet complain,</l>
+            <l>Of this, and that, and th' other thing again.</l>
+            <l>We'l privately report (though't be untrue)</l>
+            <l>His life is looſe, ſuch ſlanders are not new.</l>
+            <l>Some dirt will ſtick, if dirt enough we caſt,</l>
+            <l>Thus we his credit weaken ſhall at laſt.</l>
+            <l>But thou poor Book, wilt ſcarcely finde a friend</l>
+            <l>That dares plead for thee, leſt he ſhould offend.</l>
+            <l>Yet be not daunted, time will ſhortly be</l>
+            <l>When truth, not friends, We ſhall prevailing ſee.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32787:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
